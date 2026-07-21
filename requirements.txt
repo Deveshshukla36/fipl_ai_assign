@@ -1,0 +1,4 @@
+sentence-transformers==2.2.2
+rank-bm25==0.2.2
+numpy==1.24.3
+nltk==3.8.1
